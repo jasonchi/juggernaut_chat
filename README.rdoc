@@ -1,2 +1,8 @@
-you should install node.js and redis
+you should install node.js and redis;
 see:https://github.com/maccman/juggernaut/blob/master/README.md
+
+Install juggernaut
+
+git clone git://github.com/maccman/juggernaut.git --recursive
+cd juggernaut
+sudo node server.js
