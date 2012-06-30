@@ -1,0 +1,2 @@
+you should install node.js and redis
+see:https://github.com/maccman/juggernaut/blob/master/README.md
